@@ -1,0 +1,2 @@
+PyPDF2==1.28.6
+tk  # tkinter，already on Mac and Windows, Linux users need to install this package.
